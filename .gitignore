@@ -1,10 +1,6 @@
 # R Project
 *.Rproj
 
-# Ignore unneeded Quarto folders
-/.quarto/
-docs/
-
 # History files
 .Rhistory
 .Rapp.history
