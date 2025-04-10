@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "My Website"
+  title: "Bethany Williams"
   repo-url: https://github.com/bethany-williams/bethany-williams.github.io
   repo-actions: [issue]
   navbar:
