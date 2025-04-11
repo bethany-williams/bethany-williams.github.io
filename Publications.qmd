@@ -55,3 +55,7 @@ Coffin, J. L., **Williams, B.**, Tobler, M., 2024. Genetics and resource availab
 
 ![](images/IMG_9223.JPG){width="5in"}
 :::
+<<<<<<< HEAD
+=======
+
+>>>>>>> 34d1b3d7600b6f597b1eddb727816c4e1fc21952
