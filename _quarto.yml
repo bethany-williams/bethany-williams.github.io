@@ -17,6 +17,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Publications"
+        href: Publications.qmd
+      - text: "Projects"
+        href: Projects.qmd
     right: 
       - icon: github
         href: https://github.com/bethany-williams/bethany-williams.github.io
@@ -26,6 +30,7 @@ website:
 
 format:
   html:
+    page-layout: full
     toc: true
     link-external-newwindow: true
     link-external-icon: false
@@ -33,3 +38,6 @@ format:
       light: theme_light.scss
       dark: theme_dark.scss
     mainfont: Open Sans
+    grid:
+      margin-width: 100px 
+      sidebar-width: 100px

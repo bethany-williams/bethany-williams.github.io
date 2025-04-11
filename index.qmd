@@ -1,26 +1,32 @@
 ---
-title: "index.qmd"
-format: html
-editor: visual
+about:
+  id: header
+  template: trestles
+  image: images/profile.jpg
+  image-width: 10cm
+  image-shape: round
+  links:
+    - href: https://github.com/bethany-williams
+      text: GitHub
+      icon: github
+    - href: https://github.com/bethany-williams/bethany-williams.github.io/blob/main/documents/Williams_CURRICULUM%20VITAE.pdf
+      text: Resume
+      icon: journal-bookmark-fill
+    - href: mailto:bwmwb@umsl.edu
+      text: Email
+      icon: envelope-fill
 ---
 
-## Quarto
+::: {#header}
+**My Research Interests**
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+My research interests are centered on 1) understanding how animals that live in extreme environments have evolved to do so and, 2) understanding how organisms will be affected by multiple environmental stressors and other anthropogenic pressures. 
+:::
 
-## Running Code
+::: column-screen
+<p align="center">
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+<img src="images/cow.jpg" alt="cow drinking from stream" width=100% margin-bottom/>
 
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+</p>
+:::
