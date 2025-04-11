@@ -1,5 +1,5 @@
 ---
-title: "Projects:"
+title-block-banner: "#00000000"
 include-in-header:
   - text: |
       <style>
@@ -33,8 +33,6 @@ include-in-header:
 # Projects
 
 I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures. I use a combination of field and laboratory techniques to address these questions.
-
-**Adaptation in Sulfide Springs**
 
 **Adaptation in Sulfide Springs**
 
