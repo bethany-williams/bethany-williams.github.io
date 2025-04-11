@@ -10,7 +10,7 @@ $url-blue: #4361ee;
 
 /* generally useful other colors */
 $cream: #F4F3EE;
-$charcoal: #191919;
+$charcoal: #333533;
 $gray-1: #8A817C;
 $gray-2: #BCB8B1;
 $gray-3: #d6d6d6;
@@ -20,15 +20,15 @@ $font-size: 25px;
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 // Base document colors
-$navbar-bg: $org-1; // navbar
+$navbar-bg: $org-2; // navbar
 $navbar-fg: $charcoal; // navbar foreground elements
-$navbar-hl: $org-2; // highlight color when hovering on a page
+$navbar-hl: $cream; // highlight color when hovering on a page
 $sidebar-bg: $org-2; // sidebar
 $sidebar-fg: $charcoal; // sidebar foreground elements
 $body-bg: $charcoal; // page background
 $body-color: $cream; // page text
-$footer-bg: $mint-1; // footer
-$footer-fg: $charcoal; // footer text
+$footer-bg: $org-2; // footer
+$footer-fg: $cream; // footer text
 $link-color: $url-blue; // hyperlinks
 
 // Code text
