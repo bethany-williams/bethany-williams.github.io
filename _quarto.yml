@@ -30,6 +30,7 @@ website:
     border: false
 
 
+fig-dpi: 600 # Figure resolution 
 format:
   html:
     page-layout: full

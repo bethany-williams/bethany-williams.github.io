@@ -1,18 +1,40 @@
 ---
-title: "Publications"
+title-block-banner: "#00000000"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/IMG_0870.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 400px;
+        opacity: 1; /* Adjust as needed */
+        z-index: -1;
+      }
+      #title-block-header::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0); 
+        z-index: -1;
+      }
+      </style>
 ---
 
-<p align="center">
-
-<img src="images/frozen.jpg" alt="Picture of a frozen wood frog" width="85%"/>
-
-</p>
-
-**Published:**
+# **Published:**
 
 ## 2025
 
-**Williams, B.**, Pintor L., Toomey M., Gray, S. Intraspecific Variation in Color and Carotenoids Across Environmental Extremes in an African Cichlid (accepted at Ecological and Evolutionary Physiology). <https://doi.org/10.1086/735656>
+**Williams, B.**, Pintor L., Toomey M., Gray, S. Intraspecific Variation in Color and Carotenoids Across Environmental Extremes in an African Cichlid (accepted at Ecological and Evolutionary Physiology).<https://doi.org/10.1086/735656>
 
 **Williams, B.**, Pintor L., Gray S., Alteration of reproductive behaviors by aromatase inhibition is population-dependent in an African cichlid fish (accepted at Journal of Experimental Biology). <https://doi.org/10.1242/jeb.249497>
 
@@ -22,8 +44,15 @@ Coffin, J. L., **Williams, B.**, Tobler, M., 2024. Genetics and resource availab
 
 **Williams, B.**, Pintor L., Gray S., 2024. Multiple Stressors Disrupt Sex Hormone and Fitness Outcomes: Effects of Hypoxia and Turbidity on an African Cichlid Fish. Conservation Physiology: 12 (1): <https://doi.org/10.1093/conphys/coae066>
 
-**Williams, B.**, Pintor L., Gray S., 2024. Multiple Stressors Lead to Complex Responses in Reproductive Behaviors in an African Cichlid. Current Zoology:  <https://doi.org/10.1093/cz/zoae033>
+**Williams, B.**, Pintor L., Gray S., 2024. Multiple Stressors Lead to Complex Responses in Reproductive Behaviors in an African Cichlid. Current Zoology: <https://doi.org/10.1093/cz/zoae033>
 
 ## 2018
 
-**Williams, B.,** Wiebler, J., Lee, R., Costanzo, J. 2018. Nitric oxide metabolites in hypoxia, freezing, and hibernation of the wood frog, *Rana sylvatica.* Journal of Comparative Physiology B: 188 (6): 957-966: https://doi.org/10.1007/s00360-018-1182-1
+**Williams, B.,** Wiebler, J., Lee, R., Costanzo, J. 2018. Nitric oxide metabolites in hypoxia, freezing, and hibernation of the wood frog, *Rana sylvatica.* Journal of Comparative Physiology B: 188 (6): 957-966: <https://doi.org/10.1007/s00360-018-1182-1>
+
+::: {layout-ncol="2"}
+![](images/monkey.JPG){width="5in"}
+
+![](images/IMG_9223.JPG){width="5in"}
+:::
+

@@ -1,17 +1,23 @@
 ---
-title: "Research Interests"
+title: "Projects:"
 ---
 
 I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures.​ I use a combination of field and laboratory techniques to address these questions.
 
+**Adaptation in Sulfide Springs**
+
 Research during my NSF postdoctoral research fellowship in biology will focus on understanding how interactions between the environment, genotype, and phenotype shape co-tolerance of hypoxia and hydrogen sulfide tolerance in *Poecilia mexicana*.
 
-My PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*).
+**African Swamps**
+
+My PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*) found in swamps and rivers throughout the Nile river basin.
+
+**Frozen Frogs**
 
 My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance
 
 ::: {layout-ncol="2"}
-![](images/monkey.JPG){width="5in"}
+![](images/frozen.JPG){width="5in"}
 
 ![](images/male%20territory%20pit.JPG){width="5in"}
 :::
