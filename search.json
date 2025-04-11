@@ -2,23 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "index.qmd",
+    "title": "Bethany Williams",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "index.qmd",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "index.qmd",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "GitHub\n  \n  \n    \n     Resume\n  \n  \n    \n     Email\n  \n\n  \n  \nMy Research Interests\nMy research interests are centered on 1) understanding how animals that live in extreme environments have evolved to do so and, 2) understanding how organisms will be affected by multiple environmental stressors and other anthropogenic pressures."
   },
   {
     "objectID": "Projects.html",
@@ -26,5 +12,33 @@
     "title": "Research Interests",
     "section": "",
     "text": "I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures.​ I use a combination of field and laboratory techniques to address these questions.\nResearch during my NSF postdoctoral research fellowship in biology will focus on understanding how interactions between the environment, genotype, and phenotype shape co-tolerance of hypoxia and hydrogen sulfide tolerance in Poecilia mexicana.\nMy PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (Pseudocrenilabrus multicolor).\nMy Master’s research on wood frogs (Rana sylvatica) focused on understanding the physiology of freeze tolerance"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Published:"
+  },
+  {
+    "objectID": "Publications.html#section",
+    "href": "Publications.html#section",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\nWilliams, B., Pintor L., Toomey M., Gray, S. Intraspecific Variation in Color and Carotenoids Across Environmental Extremes in an African Cichlid (accepted at Ecological and Evolutionary Physiology). https://doi.org/10.1086/735656\nWilliams, B., Pintor L., Gray S., Alteration of reproductive behaviors by aromatase inhibition is population-dependent in an African cichlid fish (accepted at Journal of Experimental Biology). https://doi.org/10.1242/jeb.249497"
+  },
+  {
+    "objectID": "Publications.html#section-1",
+    "href": "Publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\nCoffin, J. L., Williams, B., Tobler, M., 2024. Genetics and resource availability shape divergence in life history and behavior between locally-adapted populations of Atlantic mollies (Poecilia mexicana, Poeciliidae), Biological Journal of the Linnean Society: 143 (4): https://doi.org/10.1093/biolinnean/blae113\nWilliams, B., Pintor L., Gray S., 2024. Multiple Stressors Disrupt Sex Hormone and Fitness Outcomes: Effects of Hypoxia and Turbidity on an African Cichlid Fish. Conservation Physiology: 12 (1): https://doi.org/10.1093/conphys/coae066\nWilliams, B., Pintor L., Gray S., 2024. Multiple Stressors Lead to Complex Responses in Reproductive Behaviors in an African Cichlid. Current Zoology:  https://doi.org/10.1093/cz/zoae033"
+  },
+  {
+    "objectID": "Publications.html#section-2",
+    "href": "Publications.html#section-2",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nWilliams, B., Wiebler, J., Lee, R., Costanzo, J. 2018. Nitric oxide metabolites in hypoxia, freezing, and hibernation of the wood frog, Rana sylvatica. Journal of Comparative Physiology B: 188 (6): 957-966: https://doi.org/10.1007/s00360-018-1182-1"
   }
 ]
