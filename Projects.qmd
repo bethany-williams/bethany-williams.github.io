@@ -8,8 +8,10 @@ Research during my NSF postdoctoral research fellowship in biology will focus on
 
 My PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*).
 
-My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance.
+My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance
 
-![](images/sulfidestream.JPG){fig-align="left"}
+::: {layout-ncol="2"}
+![](images/monkey.JPG){width="50%"}
 
-![](images/male territory pit.JPG){fig-align="right"}
+![](images/male%20territory%20pit.JPG){width="50%"}
+:::
