@@ -11,7 +11,7 @@ My PhD research has focused specifically on understanding how the combination of
 My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance
 
 ::: {layout-ncol="2"}
-![](images/monkey.JPG){width="2.9in"}
+![](images/monkey.JPG){width="5in"}
 
-![](images/male%20territory%20pit.JPG){fig-align="right" width="4in"}
+![](images/male%20territory%20pit.JPG){width="5in"}
 :::
