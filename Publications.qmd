@@ -36,7 +36,7 @@ include-in-header:
 
 **Williams, B.**, Pintor L., Toomey M., Gray, S. Intraspecific Variation in Color and Carotenoids Across Environmental Extremes in an African Cichlid (accepted at Ecological and Evolutionary Physiology).<https://doi.org/10.1086/735656>
 
-**Williams, B.**, Pintor L., Gray S., Alteration of reproductive behaviors by aromatase inhibition is population-dependent in an African cichlid fish (accepted at Journal of Experimental Biology). <https://doi.org/10.1242/jeb.249497>
+**Williams, B.**, Pintor L., Gray S., Alteration of reproductive behaviors by aromatase inhibition is population-dependent in an African cichlid fish. Journal of Experimental Biology 228 (6): <https://doi.org/10.1242/jeb.249497>
 
 ## 2024
 
