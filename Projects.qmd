@@ -1,4 +1,5 @@
 ---
+toc: false
 title-block-banner: "#00000000"
 include-in-header:
   - text: |
@@ -30,26 +31,33 @@ include-in-header:
       </style>
 ---
 
-# Projects
+### Current Projects:
 
-I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures. I use a combination of field and laboratory techniques to address these questions.
+I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures. Because tolerance could arise from interactions between genotypes, phenotypes, and the environment, I rely on an integrative approach that considers individual organisms at the molecular, physiological, behavioral, and morphological levels to address these questions.
 
-**Adaptation in Sulfide Springs**
+#### **Adaptation in Sulfide Springs**
 
-Research during my NSF postdoctoral research fellowship in biology will focus on understanding how interactions between the environment, genotype, and phenotype shape co-tolerance of hypoxia and hydrogen sulfide tolerance in *Poecilia mexicana*.
+As a NSF PRFB postdoctoral fellow working with Michi Tobler at the University of Missouri St. Louis, I have studied the co-evolution of sulfide and hypoxia tolerance in (*Poecilia mexicana*) which exhibits exceptional tolerance to H~2~S and hypoxia. To determine how hypoxia and H~2~S tolerances are correlated and shaped by genetic and environmental effects, I will compare tolerance to H~2~S and hypoxia in fish locally adapted to sulfidic and non-sulfidic environments, followed by comparing gene expression patterns and physiological performance of laboratory-reared fish that are experimentally exposed to different combinations of hypoxia and H~2~S.
 
-**African Swamps**
 
-My PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*) found in swamps and rivers throughout the Nile river basin.
+#### **LTER Synthesis Skills for Early Career Reasearchers**
 
-**Frozen Frogs**
+Fish are getting smaller, probably due to things like climate change or overfishing, and this is actually a big problem because smaller females produce fewer eggs. But we don’t know for sure how this will affect the abundance or diversity of fish communities. Therefore, we are studying whether the effects of temperature and dissolved oxygen on body size are correlated with its effects at population or community levels and whether variation in responses at one level like body size can help us predict responses at another level like population abundance. This will allow us to understand just how changes in body size actually affect the overall community of fish.
 
-My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance, specifically the role played by the signal molecule nitric oxide.
+Check out more about the project: <https://github.com/lter/ssecr-driver-scales> or the course hosted by the Long Term Ecological Research Network: <https://lter.github.io/ssecr/>
+
+### Past Projects:
+
+#### **Cichlid Reproduction in African Swamps**
+
+My PhD research working with Dr. Suzanne Gray and Dr. Lauren Pintor focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*) found in swamps and rivers throughout the Nile river basin. Both hypoxia and turbidity can have profound effects on reproductive outcomes by reducing energy availability and altering the visual environment, respectively. Hypoxia is a natural stressor in this environment while turbidity is increasing due to human activities such as agriculture. Overall, my research demonstrated that hypoxia and turbidity can negatively affect traits important for fish reproduction, even in populations that regularly experience these environmental stressors.
+
+#### **Frozen Frogs**
+
+My Master's research with Jon Costanzo at Miami University focused on understanding the physiology of freeze tolerance in wood frogs (*Rana sylvatica*), specifically the role played by the signal molecule nitric oxide.
 
 ::: {layout-ncol="2"}
-
 ![](images/frozen.jpg){width="5in"}
-
 
 ![](images/male%20territory%20pit.JPG){width="5in"}
 :::

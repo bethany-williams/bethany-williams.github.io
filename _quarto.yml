@@ -33,8 +33,10 @@ website:
 fig-dpi: 600 # Figure resolution 
 format:
   html:
-    page-layout: full
     toc: true
+    toc_float: true
+    toc-depth: 2
+    page-layout: full
     link-external-newwindow: true
     link-external-icon: false
     theme:

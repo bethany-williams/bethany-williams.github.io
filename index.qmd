@@ -56,5 +56,5 @@ I am currently a postdoc at the University of Missouri St. Louis.
 
 My research interests are centered on 1) understanding how animals that live in extreme environments have evolved to do so and, 2) understanding how organisms will be affected by multiple environmental stressors and other anthropogenic pressures.
 
-I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures. I use a combination of field and laboratory techniques to address these questions.
+These two questions are inherently linked. Human activities are making the environment more extreme, and many environments that are considered ‘extreme’ are also composed of multiple stressors. 
 :::
