@@ -10,7 +10,7 @@ include-in-header:
         height: 0;
       }
       #title-block-header {
-        background-image: url(images/IMG_0870.jpg);
+        background-image: url(images/esp.jpg);
         background-size: cover;
         background-position-y: center;
         height: 400px;
