@@ -1,17 +1,53 @@
 ---
-title: "Research Interests"
+title: "Projects:"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/cow.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 400px;
+        opacity: 1; /* Adjust as needed */
+        z-index: -1;
+      }
+      #title-block-header::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0); 
+        z-index: -1;
+      }
+      </style>
 ---
 
-I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures.​ I use a combination of field and laboratory techniques to address these questions.
+# Projects
+
+I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures. I use a combination of field and laboratory techniques to address these questions.
+
+**Adaptation in Sulfide Springs**
 
 Research during my NSF postdoctoral research fellowship in biology will focus on understanding how interactions between the environment, genotype, and phenotype shape co-tolerance of hypoxia and hydrogen sulfide tolerance in *Poecilia mexicana*.
 
-My PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*).
+**African Swamps**
+
+My PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (*Pseudocrenilabrus multicolor*) found in swamps and rivers throughout the Nile river basin.
+
+**Frozen Frogs**
 
 My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance
 
 ::: {layout-ncol="2"}
-![](images/monkey.JPG){width="5in"}
+![](images/frozen.jpg){width="5in"}
 
 ![](images/male%20territory%20pit.JPG){width="5in"}
 :::
