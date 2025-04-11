@@ -2,7 +2,7 @@
 about:
   id: header
   template: trestles
-  image: images/profile.jpg
+  image: images/profile.JPG
   image-width: 10cm
   image-shape: round
   links:
