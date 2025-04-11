@@ -19,5 +19,12 @@
     "title": "index.qmd",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I am broadly interested in how organisms use physiological and behavioral mechanisms to cope with environmental stressors like hypoxia, turbidity, and warming temperatures.​ I use a combination of field and laboratory techniques to address these questions.\nResearch during my NSF postdoctoral research fellowship in biology will focus on understanding how interactions between the environment, genotype, and phenotype shape co-tolerance of hypoxia and hydrogen sulfide tolerance in Poecilia mexicana.\nMy PhD research has focused specifically on understanding how the combination of hypoxia and turbidity affect the reproductive physiology and behavior of an African cichlid (Pseudocrenilabrus multicolor).\nMy Master’s research on wood frogs (Rana sylvatica) focused on understanding the physiology of freeze tolerance."
   }
 ]
