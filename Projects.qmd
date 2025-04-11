@@ -1,6 +1,5 @@
 ---
 title: "Projects:"
-<<<<<<< HEAD
 include-in-header:
   - text: |
       <style>
@@ -29,8 +28,6 @@ include-in-header:
         z-index: -1;
       }
       </style>
-=======
->>>>>>> 34d1b3d7600b6f597b1eddb727816c4e1fc21952
 ---
 
 # Projects
@@ -52,11 +49,9 @@ My PhD research has focused specifically on understanding how the combination of
 My Master's research on wood frogs (*Rana sylvatica*) focused on understanding the physiology of freeze tolerance
 
 ::: {layout-ncol="2"}
-<<<<<<< HEAD
+
 ![](images/frozen.jpg){width="5in"}
-=======
-![](images/frozen.JPG){width="5in"}
->>>>>>> 34d1b3d7600b6f597b1eddb727816c4e1fc21952
+
 
 ![](images/male%20territory%20pit.JPG){width="5in"}
 :::
