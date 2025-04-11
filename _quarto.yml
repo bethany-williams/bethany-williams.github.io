@@ -42,7 +42,7 @@ format:
       dark: theme_dark.scss
     mainfont: Open Sans
     grid:
-      margin-width: 100px 
+      margin-width: 150px 
       sidebar-width: 0px
       body-width: 1000px
 repo-actions: false
