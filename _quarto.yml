@@ -27,6 +27,8 @@ website:
   page-footer: 
     center: "Copyright 2025, Bethany Williams"
     background: secondary
+    border: false
+
 
 format:
   html:
@@ -40,4 +42,6 @@ format:
     mainfont: Open Sans
     grid:
       margin-width: 100px 
-      sidebar-width: 100px
+      sidebar-width: 0px
+      body-width: 1000px
+repo-actions: false
