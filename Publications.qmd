@@ -35,7 +35,7 @@ include-in-header:
 
 ## Accepted
 
-7\. **Williams, B.**, Arias-Rodriguez L., Schlupp I., Tobler M., Resilient by nature: managed rearing does not erode physiochemical tolerances of an extremophile fish (Accepted at Biological Letters).
+7\. **Williams, B.**, Arias-Rodriguez L., Schlupp I., Tobler M., Resilient by nature: managed rearing does not erode physiochemical tolerances of an extremophile fish (Accepted at Biology Letters).
 
 ## 2025
 
