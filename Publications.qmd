@@ -29,12 +29,18 @@ include-in-header:
       }
       </style>
 ---
+# **Accepted:**
+
+## 2025
+
+**Williams, B.**, Arias-Rodriguez L., Schlupp I., Tobler M., Resilient by nature: managed rearing does not erode physiochemical tolerances of an extremophile fish (Accepted at Biological Letters)
+
 
 # **Published:**
 
 ## 2025
 
-**Williams, B.**, Pintor L., Toomey M., Gray, S. Intraspecific Variation in Color and Carotenoids Across Environmental Extremes in an African Cichlid (accepted at Ecological and Evolutionary Physiology).<https://doi.org/10.1086/735656>
+**Williams, B.**, Pintor L., Toomey M., Gray, S., Intraspecific Variation in Color and Carotenoids Across Environmental Extremes in an African Cichlid. Evolutionary and Ecological Physiology: 98 (2):58-69.<https://doi.org/10.1086/735656>
 
 **Williams, B.**, Pintor L., Gray S., Alteration of reproductive behaviors by aromatase inhibition is population-dependent in an African cichlid fish. Journal of Experimental Biology 228 (6): <https://doi.org/10.1242/jeb.249497>
 
