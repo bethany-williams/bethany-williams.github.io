@@ -35,6 +35,8 @@ include-in-header:
 
 ## 2026
 
+8\. Williams, B., Christopher, E., Ernest, C., Kline, I., Moosman, O., Morrow, K., Nobrega, M., Surendran, N., Barts, N., Arias Rodriguez, L., Kelley, J., Tobler, M. Mechanisms Underlying Tolerance of Severe Hypoxia in Sulfide Spring Fish (in press at Comparative Biochemistry and Physiology Part A) <https://doi.org/10.1016/j.cbpa.2026.112038>
+
 7\. **Williams, B.**, Arias-Rodriguez L., Schlupp I., Tobler M., Resilient by nature: managed rearing does not erode physiochemical tolerances of an extremophile fish. Biology Letters: 22 (2) 20250646 <https://doi.org/10.1098/rsbl.2025.0646>
 
 ## 2025
