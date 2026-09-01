@@ -30,6 +30,9 @@ include-in-header:
       </style>
 ---
 
+# **Accepted:**
+
+9\.**Williams, B.**, Greenway, R., Arias Rodriguez, L., Kelley, J., Tobler, M., Shared and Unique Patterns of Trait Expression in a Sulfide Spring Fish Population in Guanacaste, Costa Rica (Accepted at Environmental Biology of Fishes).
 
 # **Published:**
 
